@@ -7,7 +7,7 @@
 #
 Name     : R-stringmagic
 Version  : 1.1.1
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/stringmagic_1.1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/stringmagic_1.1.1.tar.gz
 Summary  : Character String Operations and Interpolation, Magic Edition
